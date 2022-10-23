@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 
 ## 🤔About Me
-
-* 😈A Script Boy. I want to hack the world -> JUST DO IT！
-* 💖 Favorite: Hacker, Exercise, Music
+* 💖 脚本小子一枚
+* ⚡ 一个努力中的无名小卒
 
 
 ## Stats
