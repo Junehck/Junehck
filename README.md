@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 🤔About Me
+
+* 😈A Script Boy. I want to hack the world -> JUST DO IT！
+* 💖 Favorite: Hacker, Exercise, Music
+
+
+## Stats
+![Junehck github stats](https://github-readme-stats.vercel.app/api?username=Junehck&show_icons=true&hide_border=false&theme=default&count_private=true&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junehck&hide=html&theme=default&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+
+## Visit Count
+![Visitor Count](https://profile-counter.glitch.me/Junehck/count.svg)
