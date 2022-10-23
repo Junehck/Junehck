@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Junehck/Junehck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,18 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h1 align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&color=%23B335F7&size=22&vCenter=true&height=40&lines=Welcome+to+my+home+page+%F0%9F%91%8B;I+guess+you+are+a+hacker+%F0%9F%A4%94;Nice+to+meet+you+%F0%9F%98%9D;Hope+there+is+something+you+need+%F0%9F%8E%81">
+</a>
+</h1>  
 
 ## 🤔About Me
-* 💖 脚本小子一枚
-* ⚡ 一个努力中的无名小卒
+* 💖 A hacker who only uses scripts
+* ⚡ A nobody in his efforts
+* 🐦 My Blog: http://blog.mo60.cn
 
 
-## Stats
-![Junehck github stats](https://github-readme-stats.vercel.app/api?username=Junehck&show_icons=true&hide_border=false&theme=default&count_private=true&hide_title=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junehck&hide=html&theme=default&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+## info
 
+<img align='left' src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Junehck&theme=nord_dark' width='270px'>
 
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Junehck&theme=nord_dark' width='555px'> 
 
-## Visit Count
-![Visitor Count](https://profile-counter.glitch.me/Junehck/count.svg)
